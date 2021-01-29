@@ -1,4 +1,4 @@
-# ThesisPublic
+# Comprehending Neural Networks via Translation to And-Inverter Graphs
 
 I plan to upload research that follows from my thesis.
 
