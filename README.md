@@ -1,5 +1,5 @@
 ## Current Work
-I am currently working on three projects: 
+I am currently working on three projects that directly follow from this thesis: 
 1) weight sensitivity
 2) real-valued inputs
 3) multinomial classifications
