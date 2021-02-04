@@ -1,7 +1,10 @@
+## Current Work
+I am currently working on three projects: 
+1) weight sensitivity
+2) real-valued inputs
+3) multinomial classifications
+
 ## Comprehending Neural Networks via Translation to And-Inverter Graphs
-
-I plan to upload research that follows from my thesis.
-
 
 Presentation note: I created the defense presentation with LibreOffice Impress and LaTeX. Some LaTeX images are blurry in Google Slides and perhaps software other than Impress.
 
