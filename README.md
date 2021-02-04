@@ -4,7 +4,7 @@ I am currently working on three projects that directly follow from this thesis:
 2) real-valued inputs
 3) multinomial classifications
 
-I have also transitioned from AIGs to OBDDs (Ordered Binary Decision Diagrams) for the explainable model. Furthermore, I am recreating Chan and Darwhiche's algorithm in "Reasoning about Bayesian Network Classifiers" to improve the asymptotic run time from O(2<sup>n</sup>) to O(2<sup>0.5</sup>n) where n is the number of in-weights for a given neural node.
+I have also transitioned the explainable model from AIGs to OBDDs (Ordered Binary Decision Diagrams). Furthermore, I am recreating Chan and Darwhiche's algorithm in "Reasoning about Bayesian Network Classifiers" to improve the asymptotic run time from O(2<sup>n</sup>) to O(2<sup>0.5</sup>n) where n is the number of in-weights for a given neural node.
 
 ## Comprehending Neural Networks via Translation to And-Inverter Graphs
 
