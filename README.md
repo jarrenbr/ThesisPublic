@@ -16,3 +16,8 @@ This thesis gives a novel algorithm N that helps users understand neural network
 ## Reducing the Neural Network Traversal Space for Boolean Abstractions
 ### Abstract
 A reverse traversal (N) of the neural network is contrasted with a forward traversal (F). The Neural Constantness Heuristic, Neural Constant Propagation, shared logic, and negligible neural nodes are considered to reduce a neural layer's input space and reduce the amount of neural nodes approximated.
+
+## Survey: Logic, Automata, and Game Theory
+
+### Abstract
+This paper surveys the relations among formal systems, decidability, finite automata, and game theory. An emphasis is placed on monadic second-order logic which Büchi used to create ω-regular automata. Extending Büchi’s work, Rabin found that the monadic second-order theory of the infinite complete binary tree was also decidable. Part of Rabin’s proof showed that ω-tree automata could be equally expressive to ω-regular automata. Complementing Rabin’s paper, a summary of Gurevich and Harrington’s game-theoretic proof for ω-tree automata’s closure under complementation is summarized.
