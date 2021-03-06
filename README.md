@@ -6,7 +6,7 @@ I am currently working on three projects that directly follow from this thesis:
 
 I have also transitioned the explainable model from AIGs to OBDDs (Ordered Binary Decision Diagrams). Furthermore, I am recreating Chan and Darwhiche's algorithm in "Reasoning about Bayesian Network Classifiers" to improve the asymptotic run time from O(2<sup>n</sup>) to O(2<sup>0.5n</sup>n) where n is the number of in-weights for a given neural node.
 
-## Comprehending Neural Networks via Translation to And-Inverter Graphs
+## Thesis: Comprehending Neural Networks via Translation to And-Inverter Graphs
 
 Presentation note: I created the defense presentation with LibreOffice Impress and LaTeX. Some LaTeX images are blurry in Google Slides and perhaps software other than Impress.
 
