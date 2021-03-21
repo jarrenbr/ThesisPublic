@@ -1,8 +1,9 @@
 ## Current Work
 I am currently working on three projects that directly follow from this thesis: 
-1) weight sensitivity
-2) real-valued inputs
-3) multinomial classifications
+1) real-valued constant nodes
+2) weight sensitivity
+3) real-valued inputs
+4) multinomial classifications
 
 I have also transitioned the explainable model from AIGs to OBDDs (Ordered Binary Decision Diagrams). Furthermore, I am recreating Chan and Darwhiche's algorithm in "Reasoning about Bayesian Network Classifiers" to improve the asymptotic run time from O(2<sup>n</sup>) to O(2<sup>0.5n</sup>n) where n is the number of in-weights for a given neural node.
 
