@@ -16,7 +16,7 @@ This thesis gives a novel algorithm N that helps users understand neural network
 
 ## Reducing the Neural Network Traversal Space for Boolean Abstractions
 ### Abstract
-A reverse traversal (N) of the neural network is contrasted with a forward traversal (F). The Neural Constantness Heuristic, Neural Constant Propagation, shared logic, and negligible neural nodes are considered to reduce a neural layer's input space and reduce the amount of neural nodes approximated.
+The inherent intricate topology of a neural network (NN) decreases our understanding of its function and purpose. Neural network abstraction and analysis techniques are designed to increase the comprehensibility of these computing structures. To achieve a more concise and interpretable representation of a NN as a Boolean graph (BG), the Neural Constantness Heuristic, Neural Constant Propagation, shared logic, and negligible neural nodes are considered to reduce a neural layer’s input space and reduce the number of approximated neural nodes. Two parsing methods to translate NNs to BGs, reverse traversal (N) and forward traversal (F), are contrasted. For most use cases, N is the better choice.
 
 ## Survey: Logic, Automata, and Game Theory
 
