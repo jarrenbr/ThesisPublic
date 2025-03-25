@@ -1,5 +1,5 @@
-## Current Work
-I am currently working on three projects that directly follow from this thesis: 
+## Master's Thesis (Archived, my PhD work is relevant: https://github.com/jarrenbr/PhD-Dissertation )
+I am currently working on projects that directly follow from this thesis: 
 1) real-valued constant nodes
 2) weight sensitivity
 3) real-valued inputs
